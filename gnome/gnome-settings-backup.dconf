@@ -1,0 +1,376 @@
+[Connections]
+first-run=false
+
+[Console]
+font-scale=1.0
+last-window-maximised=false
+last-window-size=(1222, 583)
+theme='night'
+visual-bell=true
+
+[Disks]
+image-dir-uri='file:///home/murilo/Documentos'
+
+[Extensions]
+window-maximized=false
+
+[Music]
+window-maximized=true
+
+[Snapshot]
+is-maximized=false
+window-height=640
+window-width=800
+
+[TextEditor]
+last-save-directory='file:///home/murilo/Documentos/adotyx'
+
+[Totem]
+active-plugins=['movie-properties', 'apple-trailers', 'save-file', 'screenshot', 'screensaver', 'autoload-subtitles', 'recent', 'rotation', 'vimeo', 'open-directory', 'mpris', 'skipto', 'variable-rate']
+subtitle-encoding='UTF-8'
+
+[Weather]
+locations=[<(uint32 2, <('São Carlos', 'SBYS', false, [(-0.38368154141232258, -0.82612250679288513)], [(-0.38368154141232258, -0.82612250679288513)])>)>]
+window-height=496
+window-maximized=false
+window-width=992
+
+[control-center]
+last-panel='display'
+window-state=(980, 640, true)
+
+[desktop/app-folders]
+folder-children=['Utilities', 'YaST', 'Pardus']
+
+[desktop/app-folders/folders/Pardus]
+categories=['X-Pardus-Apps']
+name='X-Pardus-Apps.directory'
+translate=true
+
+[desktop/app-folders/folders/Utilities]
+apps=['gnome-abrt.desktop', 'gnome-system-log.desktop', 'nm-connection-editor.desktop', 'org.gnome.baobab.desktop', 'org.gnome.Connections.desktop', 'org.gnome.DejaDup.desktop', 'org.gnome.Dictionary.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.Evince.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.fonts.desktop', 'org.gnome.Loupe.desktop', 'org.gnome.seahorse.Application.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.Usage.desktop', 'vinagre.desktop']
+categories=['X-GNOME-Utilities']
+name='X-GNOME-Utilities.directory'
+translate=true
+
+[desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[desktop/background]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///home/murilo/.config/background'
+picture-uri-dark='file:///home/murilo/.config/background'
+primary-color='#ff7800'
+secondary-color='#000000'
+
+[desktop/datetime]
+automatic-timezone=false
+
+[desktop/input-sources]
+mru-sources=[('xkb', 'us')]
+sources=[('xkb', 'br')]
+
+[desktop/interface]
+clock-show-date=true
+clock-show-seconds=false
+clock-show-weekday=false
+color-scheme='prefer-dark'
+cursor-theme='breeze_cursors'
+document-font-name='Liberation Sans 11'
+enable-hot-corners=true
+font-antialiasing='rgba'
+gtk-theme='adw-gtk3-dark'
+icon-theme='Adwaita'
+monospace-font-name='JetBrainsMonoNL Nerd Font Propo Bold 10'
+show-battery-percentage=false
+
+[desktop/notifications]
+application-children=['org-gnome-settings', 'google-chrome', 'gnome-power-panel', 'spotify-launcher', 'org-gnome-console', 'firefox', 'org-gnome-extensions', 'org-gnome-nautilus', 'org-gnome-diskutility', 'org-filezillaproject-filezilla', 'discord', 'code', 'steam', 'android-studio', 'libreoffice-impress']
+show-banners=false
+
+[desktop/notifications/application/android-studio]
+application-id='android-studio.desktop'
+
+[desktop/notifications/application/code]
+application-id='code.desktop'
+
+[desktop/notifications/application/discord]
+application-id='discord.desktop'
+
+[desktop/notifications/application/firefox]
+application-id='firefox.desktop'
+
+[desktop/notifications/application/gnome-power-panel]
+application-id='gnome-power-panel.desktop'
+
+[desktop/notifications/application/google-chrome]
+application-id='google-chrome.desktop'
+
+[desktop/notifications/application/libreoffice-impress]
+application-id='libreoffice-impress.desktop'
+
+[desktop/notifications/application/org-filezillaproject-filezilla]
+application-id='org.filezillaproject.Filezilla.desktop'
+
+[desktop/notifications/application/org-gnome-console]
+application-id='org.gnome.Console.desktop'
+
+[desktop/notifications/application/org-gnome-diskutility]
+application-id='org.gnome.DiskUtility.desktop'
+
+[desktop/notifications/application/org-gnome-extensions]
+application-id='org.gnome.Extensions.desktop'
+
+[desktop/notifications/application/org-gnome-nautilus]
+application-id='org.gnome.Nautilus.desktop'
+
+[desktop/notifications/application/org-gnome-settings]
+application-id='org.gnome.Settings.desktop'
+
+[desktop/notifications/application/spotify-launcher]
+application-id='spotify-launcher.desktop'
+
+[desktop/notifications/application/steam]
+application-id='steam.desktop'
+
+[desktop/peripherals/keyboard]
+numlock-state=true
+
+[desktop/peripherals/mouse]
+accel-profile='flat'
+
+[desktop/peripherals/touchpad]
+two-finger-scrolling-enabled=true
+
+[desktop/privacy]
+old-files-age=uint32 30
+recent-files-max-age=-1
+
+[desktop/screensaver]
+color-shading-type='solid'
+picture-options='zoom'
+picture-uri='file:///usr/share/backgrounds/gnome/amber-l.jxl'
+primary-color='#ff7800'
+secondary-color='#000000'
+
+[desktop/search-providers]
+sort-order=['org.gnome.Contacts.desktop', 'org.gnome.Documents.desktop', 'org.gnome.Nautilus.desktop']
+
+[desktop/session]
+idle-delay=uint32 300
+
+[desktop/sound]
+allow-volume-above-100-percent=true
+event-sounds=false
+theme-name='__custom'
+
+[desktop/wm/preferences]
+button-layout='appmenu:minimize,maximize,close'
+focus-mode='click'
+
+[epiphany]
+ask-for-default=false
+
+[epiphany/state]
+is-maximized=false
+window-size=(1024, 736)
+
+[evolution-data-server]
+migrated=true
+
+[gnome-system-monitor]
+current-tab='processes'
+show-dependencies=false
+show-whose-processes='user'
+window-height=679
+window-width=1147
+
+[gnome-system-monitor/disktreenew]
+col-6-visible=true
+col-6-width=0
+
+[gnome-system-monitor/proctree]
+columns-order=[0, 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
+sort-col=15
+sort-order=0
+
+[nautilus/preferences]
+default-folder-viewer='icon-view'
+migrated-gtk-settings=true
+search-filter-time-type='last_modified'
+
+[nautilus/window-state]
+initial-size=(1024, 552)
+maximized=true
+
+[nm-applet/eap/920ba81b-7983-4a5a-9248-2494735c976c]
+ignore-ca-cert=true
+ignore-phase2-ca-cert=false
+
+[nm-applet/eap/ad3b23f8-f424-4477-94eb-a95172540155]
+ignore-ca-cert=false
+ignore-phase2-ca-cert=false
+
+[portal/filechooser/discord]
+last-folder-path='/home/murilo/Downloads'
+
+[portal/filechooser/google-chrome]
+last-folder-path='/home/murilo/Documentos/Cesar'
+
+[portal/filechooser/steam]
+last-folder-path='/home/murilo/Downloads'
+
+[settings-daemon/plugins/color]
+night-light-enabled=false
+
+[settings-daemon/plugins/power]
+idle-dim=false
+sleep-inactive-ac-type='nothing'
+sleep-inactive-battery-timeout=1800
+
+[shell]
+command-history=['sudo terminal', 'sudo gnome-terminal', 'sudo alacritty', 'gnome-session-properties']
+disabled-extensions=['apps-menu@gnome-shell-extensions.gcampax.github.com', 'workspace-indicator@gnome-shell-extensions.gcampax.github.com', 'windowsNavigator@gnome-shell-extensions.gcampax.github.com', 'window-list@gnome-shell-extensions.gcampax.github.com', 'custom-osd@neuromorph', 'useless-gaps@pimsnel.com']
+enabled-extensions=['drive-menu@gnome-shell-extensions.gcampax.github.com', 'system-monitor@gnome-shell-extensions.gcampax.github.com', 'blur-my-shell@aunetx', 'mprisLabel@moon-0xff.github.com', 'clipboard-indicator@tudmotu.com', 'gsconnect@andyholmes.github.io', 'dash-to-dock@micxgx.gmail.com', 'lockkeys@vaina.lt']
+favorite-apps=['org.gnome.Nautilus.desktop', 'spotify-launcher.desktop', 'google-chrome.desktop', 'org.gnome.Console.desktop', 'firefox.desktop', 'code.desktop']
+welcome-dialog-last-shown-version='46.2'
+
+[shell/extensions/blur-my-shell]
+hacks-level=1
+pipelines={'pipeline_default': {'name': <'Default'>, 'effects': <[<{'type': <'native_static_gaussian_blur'>, 'id': <'effect_62522976185921'>, 'params': <{'brightness': <0.81999999999999995>, 'unscaled_radius': <17>}>}>, <{'type': <'noise'>, 'id': <'effect_46267240634716'>, 'params': <{'noise': <0.17000000000000001>, 'lightness': <0.40000000000000002>}>}>]>}, 'pipeline_default_rounded': {'name': <'Default rounded'>, 'effects': <[<{'type': <'native_static_gaussian_blur'>, 'id': <'effect_000000000001'>, 'params': <{'radius': <30>, 'brightness': <0.59999999999999998>}>}>, <{'type': <'corner'>, 'id': <'effect_000000000002'>, 'params': <{'radius': <24>}>}>]>}}
+settings-version=2
+
+[shell/extensions/blur-my-shell/appfolder]
+brightness=0.59999999999999998
+sigma=30
+
+[shell/extensions/blur-my-shell/applications]
+blur=true
+blur-on-overview=false
+opacity=209
+sigma=13
+whitelist=@as []
+
+[shell/extensions/blur-my-shell/dash-to-dock]
+blur=true
+brightness=0.59999999999999998
+pipeline='pipeline_default_rounded'
+sigma=30
+static-blur=true
+style-dash-to-dock=0
+
+[shell/extensions/blur-my-shell/lockscreen]
+pipeline='pipeline_default'
+
+[shell/extensions/blur-my-shell/overview]
+pipeline='pipeline_default'
+
+[shell/extensions/blur-my-shell/panel]
+brightness=0.59999999999999998
+pipeline='pipeline_default'
+sigma=30
+unblur-in-overview=false
+
+[shell/extensions/blur-my-shell/screenshot]
+pipeline='pipeline_default'
+
+[shell/extensions/blur-my-shell/window-list]
+brightness=0.59999999999999998
+sigma=30
+
+[shell/extensions/clipboard-indicator]
+display-mode=0
+
+[shell/extensions/custom-osd]
+active-profile='Dynamic Blur'
+alpha=0.0
+alpha2=85.0
+balpha=80.0
+bcolor=['0.46', '0.46', '0.48', '1']
+bg-effect='dynamic-blur'
+bgcolor=['0.0', '0.73', '0.73', '1.0']
+bgcolor2=['0.75', '0.40', '0.95', '1.0']
+border=true
+bradius=15.0
+bthickness=6.0
+clock-osd=['']
+color=['1', '1', '1', '1']
+default-font='Sans 12'
+delay=1500.0
+font='Sans 12'
+gradient-direction='horizontal'
+horizontal=0.0
+hpadding=14.0
+levalpha=85.0
+levcolor=['0.56', '0.94', '0.64', '1']
+levthickness=12.0
+monitors='all'
+osd-all={'icon-all': true, 'label-all': true, 'level-all': true, 'numeric-all': true}
+osd-nolabel={'icon-nolabel': true, 'level-nolabel': true, 'numeric-nolabel': true}
+osd-nolevel={'icon-nolevel': true, 'label-nolevel': true}
+ring-gap=100.0
+rotate=false
+shadow=false
+shcolor=['0.14', '0.12', '0.19', '1']
+size=20.0
+square-circle=false
+vertical=-44.600000000000001
+vpadding=22.0
+
+[shell/extensions/dash-to-dock]
+background-opacity=0.48999999999999999
+custom-theme-shrink=false
+dash-max-icon-size=48
+dock-position='BOTTOM'
+extend-height=false
+height-fraction=0.90000000000000002
+intellihide-mode='FOCUS_APPLICATION_WINDOWS'
+max-alpha=0.80000000000000004
+multi-monitor=true
+preferred-monitor=-2
+preferred-monitor-by-connector='eDP-1'
+preview-size-scale=1.0
+show-mounts-network=true
+transparency-mode='FIXED'
+
+[shell/extensions/gsconnect]
+name='Acer'
+
+[shell/extensions/gsconnect/preferences]
+window-maximized=false
+window-size=(767, 563)
+
+[shell/extensions/mpris-label]
+album-size=60
+auto-switch-to-most-recent=true
+enable-double-clicks=true
+extension-place='left'
+first-field='xesam:title'
+last-field=''
+max-string-length=30
+second-field='xesam:artist'
+symbolic-source-icon=false
+
+[shell/extensions/system-monitor]
+show-swap=false
+
+[shell/extensions/useless-gaps]
+gap-size=11
+
+[shell/weather]
+automatic-location=true
+locations=[<(uint32 2, <('São Carlos', 'SBYS', false, [(-0.38368154141232258, -0.82612250679288513)], [(-0.38368154141232258, -0.82612250679288513)])>)>]
+
+[shell/world-clocks]
+locations=@av []
+
+[software]
+check-timestamp=int64 1722727429
+first-run=false
+flatpak-purge-timestamp=int64 1722430485
+
+[tweaks]
+show-extensions-notice=false
